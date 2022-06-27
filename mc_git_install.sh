@@ -1,1 +1,1 @@
-apt install git mc -y
+apt install git mc python3-pip -y
