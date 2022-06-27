@@ -127,7 +127,7 @@
 'link_tracker',
 'mail_bot_hr',
 'mail_bot',
-'mail_debrand',
+ #'mail_debrand',
 'mail',
 'mass_editing',
 'mass_mailing_crm',
