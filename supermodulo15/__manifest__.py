@@ -168,7 +168,6 @@
 'sale_stock',
 'sale',
 'sales_team',
-'show_db_name',
 'sms',
 'snailmail_account',
 'snailmail',
