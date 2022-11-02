@@ -2,6 +2,7 @@ git clone -b 15.0 https://github.com/OCA/account-analytic.git
 git clone -b 15.0 https://github.com/OCA/account-closing.git 
 git clone -b 15.0 https://github.com/OCA/account-financial-reporting.git 
 git clone -b 15.0 https://github.com/OCA/account-financial-tools.git 
+git clone -b 15.0 https://github.com/OCA/account-invoice-reporting.git 
 git clone -b 15.0 https://github.com/OCA/account-invoicing.git 
 git clone -b 15.0 https://github.com/OCA/account-payment.git 
 git clone -b 15.0 https://github.com/OCA/bank-payment.git 
