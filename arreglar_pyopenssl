@@ -2,6 +2,8 @@ para arreglar el error
 
 module 'lib' has no attribute 'X509_V_FLAG_CB_ISSUER_CHECK'
 
+ANTES DE PASAR EL SCRIPT DE REQUIREMENTS
+
 
 pip3 install pip --upgrade
 pip3 install pyopenssl --upgrade
