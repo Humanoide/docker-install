@@ -1,0 +1,3 @@
+pip3 install pyopenssl==22.0.0
+
+y antes también se hicieron otras cosas
