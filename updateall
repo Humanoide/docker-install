@@ -1,0 +1,9 @@
+# Para entrar en el contenedor
+docker exec -it odoo15-web-1 bash
+
+
+# Para actualizar
+odoo --no-xmlrpc --stop-after-init --db_host 172.18.0.2 --db_port 5432 --db_user odoo --db_password odoo -d nombredelabasededatos -u all
+
+# Hay que fijarse en la ip donde corre postgres y ponerla detras de --db_host
+
