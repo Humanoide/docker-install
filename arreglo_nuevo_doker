@@ -1,0 +1,7 @@
+Para que se exponga el puerto 8072 en un contenedor que no lo tenga, se hace lo siguiente:
+- se borra el contenedor de odoo y de postgres
+- se borra el stack
+- se edita el fichero compose añadiendole el puerto 8072
+- se vuelve a generar el stack de odoo
+- se copia el contenido de addons y config en las carpetas del nuevo stack
+- se rebota el contenedor
