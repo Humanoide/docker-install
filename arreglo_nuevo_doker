@@ -4,4 +4,5 @@ Para que se exponga el puerto 8072 en un contenedor que no lo tenga, se hace lo 
 - se edita el fichero compose añadiendole el puerto 8072
 - se vuelve a generar el stack de odoo
 - se copia el contenido de addons y config en las carpetas del nuevo stack
+- en el fichero de configuración de odoo se ponen 3 workers o mas, y se descomenta la linea de longpolling
 - se rebota el contenedor
