@@ -46,3 +46,4 @@ git clone -b 15.0 https://github.com/OCA/sale-reporting.git
 git clone -b 15.0 https://github.com/OCA/server-backend.git 
 git clone -b 15.0 https://github.com/OCA/e-commerce.git 
 git clone -b 15.0 https://github.com/OCA/server-auth.git
+git clone -b 15.0 https://github.com/OCA/edi.git
